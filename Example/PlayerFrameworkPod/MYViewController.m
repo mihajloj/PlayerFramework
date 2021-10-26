@@ -10,6 +10,7 @@
 
 @interface MYViewController ()
 
+
 @end
 
 @implementation MYViewController
@@ -18,6 +19,9 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    MyPlayer *firstPlayer = [[MyPlayer alloc] initWithInteger:9999];
+    
+    NSLog(@"This is a player score %i", [firstPlayer score]);
 }
 
 - (void)didReceiveMemoryWarning

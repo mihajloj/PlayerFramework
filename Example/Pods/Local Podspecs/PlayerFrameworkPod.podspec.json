@@ -1,0 +1,22 @@
+{
+  "name": "PlayerFrameworkPod",
+  "version": "0.1.0",
+  "summary": "A short description of PlayerFrameworkPod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Mihajlo Jezdic/PlayerFrameworkPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Mihajlo Jezdic": "mihajlo.jezdic@gerniks.com"
+  },
+  "source": {
+    "git": "https://github.com/Mihajlo Jezdic/PlayerFrameworkPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "PlayerFrameworkPod/Classes/**/*"
+}

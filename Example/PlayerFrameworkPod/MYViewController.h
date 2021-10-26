@@ -7,7 +7,11 @@
 //
 
 @import UIKit;
+#include <MyPlayer.h>
+
 
 @interface MYViewController : UIViewController
+
+@property MyPlayer *instance;
 
 @end

@@ -1,0 +1,16 @@
+PODS:
+  - PlayerFrameworkPod (0.1.0)
+
+DEPENDENCIES:
+  - PlayerFrameworkPod (from `../`)
+
+EXTERNAL SOURCES:
+  PlayerFrameworkPod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PlayerFrameworkPod: e8dd5877850b14342bf8b2687d0a9ca6d00cabd7
+
+PODFILE CHECKSUM: 2da7f0f8b4aac6277bcf310ef212d8aa9993285d
+
+COCOAPODS: 1.11.2

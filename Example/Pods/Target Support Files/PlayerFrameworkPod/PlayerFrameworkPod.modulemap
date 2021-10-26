@@ -1,0 +1,6 @@
+framework module PlayerFrameworkPod {
+  umbrella header "PlayerFrameworkPod-umbrella.h"
+
+  export *
+  module * { export * }
+}
