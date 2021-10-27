@@ -27,3 +27,4 @@ Mihajlo Jezdic, mihajlo.jezdic@gerniks.com
 ## License
 
 PlayerFrameworkPod is available under the MIT license. See the LICENSE file for more info.
+“# folio3-specs”
