@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '9.0'
   s.source_files = 'PlayerFrameworkPod/Classes/**/*.{h,m}'
   s.frameworks         = 'Foundation', 'UIKit'
-  s.source           = { :git => 'https://github.com/mihajloj/PlayerFramework.git', :branch => "xyz", :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/mihajloj/PlayerFramework.git', :branch => 'xyz', :tag => s.version.to_s }
 
 end
 
